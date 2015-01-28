@@ -1,0 +1,24 @@
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess_Project.Form1.resources
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.Cache
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+c:\users\drfix\documents\visual studio 2013\Projects\Chess Project\Chess Project\obj\Debug\Chess Project.csprojResolveAssemblyReference.cache
+C:\Users\DrFix\Documents\Visual Studio 2013\Projects\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csprojResolveAssemblyReference.cache
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.Form1.resources
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.Cache
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.AboutProgrammarFrm.resources
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.AboutGame.resources
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe.manifest
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\bin\Debug\Chess Project.application
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.exe.manifest
+D:\Google Drive\LIU\Projects\Visual Programming\Chess Project\Chess Project\obj\Debug\Chess Project.application
